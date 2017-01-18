@@ -1,10 +1,36 @@
 ---
 layout: post
-title: You're up and running!
+title: Chrome 常用插件
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Adblock
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+屏蔽互联网上各种恼人的广告。对于自己喜欢的网站，可以设置白名单。对于强迫症患者，只要稍懂html，就可以自定义规则，屏蔽掉网页上任何自己不想看到的东西。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+chrome下载管理器
+
+替代chrome原生的下载界面，并增强了相关功能。此外，还可以探测所访问页面的所有资源，包括图片、文档、css文件、js文件。提供一键下载。特别是当需要在下载某页面的多个文档时，一键下载特别方便。
+
+Nimbus Screenshot and Screencast
+
+优秀的网页截图工具。支持多种截图方式，特别是能够支持在页面中进行自定义的滚动截屏。截图后可对图片进行编辑，并以png和jpeg格式输出。
+
+Neater Bookmarks
+
+弹出式书签。chrome自带的书签有个缺点，就是如果设置了多个层级，选取起来会比较困难，手抖一下就失焦。「Neater Bookmarks」可以解决这个问题。
+
+Session Buddy
+
+一键保存当前浏览器打开的全部网页。现实中经常会遇到打开很多网页，还没来得及看，宿舍就熄灯断网的情况。这时候就可以把这些网页一键保存到Session Buddy中，第二天再慢慢细看。
+
+新浪微博图床
+
+可以当成个人博客的图床。点开插件，将图片拖入，就会自动生成外链。支持Html和Markdown格式。缺点是没有提供注册账户功能，也就不能进行图片管理。我自己是拿来做测试用。
+
+印象笔记·剪藏
+
+印象笔记开发的插件。功能十分强大，可以将网页内容完全原样复制、保存到个人的笔记本中。
+
+印象笔记·悦读
+
+同样是印象笔记开发的插件，可以对网页内容进行重新排版。特别是对于那些在版式或者字体上令人无法忍受的网站，有治疗奇效。可以让读者专注于内容本身。
